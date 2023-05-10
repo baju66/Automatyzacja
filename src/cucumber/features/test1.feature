@@ -1,4 +1,4 @@
-@zadanie1
+@test1
 Feature: Dodawanie nowego adresu
 
   Scenario: Dodawanie nowego adresu

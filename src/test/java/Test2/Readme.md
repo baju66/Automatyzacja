@@ -1,0 +1,1 @@
+Skrypt, który dodaje produkt do koszyka, finalizuje proces zakupu, tworzy zrzut ekranu i na końcu porównuje sumę kwoty do zapłaty z historią zakupów.

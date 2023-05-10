@@ -1,0 +1,1 @@
+Zbiór testów automatyzujących.

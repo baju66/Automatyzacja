@@ -1,0 +1,1 @@
+Skrypt, który loguje się na stronę sklepu, dodaje adres i porównuje czy wyświetlony adres jest poprawny. Wykorzystano framework Cucumber

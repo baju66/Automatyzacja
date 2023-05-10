@@ -1,1 +1,0 @@
-Test sprawdzający proces kupowania przedmiotu i sprawdzenia poprawności ceny wraz z utworzeniem zrzutu ekranu.
