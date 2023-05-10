@@ -1,0 +1,2 @@
+# Automatyzacja
+Zbiór testów automatyzujących
