@@ -1,2 +1,2 @@
 # Automatyzacja
-Zbiór testów automatyzujących
+Zbiór testów automatyzujących. Testy znajdują się w src/test/java/
